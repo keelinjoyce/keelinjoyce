@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am an undergradute student at St. Lawrence University graduating in May 2026 with a Bachelor's degree in Statistics 🎓
+
+I am currently participating in research for the SCORE Network's Sports Modules 🏅
+
+I am looking to further my research professionally and establish a career in data analysis and visualization 📊
+
+I can be reached at linkedin.com/keelinjoyce or keelinsjoyce@gmail.com 🌟
+
 <!--
 **keelinjoyce/keelinjoyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
